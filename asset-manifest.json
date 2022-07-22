@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d524c4c.css",
+    "main.js": "/static/js/main.c1fe798b.js",
+    "static/media/DashBoard.png": "/static/media/DashBoard.80e1e933aedeaac0ccb4.png",
+    "static/media/DashBoard2.png": "/static/media/DashBoard2.ee536b7127b2425c5081.png",
+    "static/media/Nour Aviation-logos_white.png": "/static/media/Nour Aviation-logos_white.5668ec090a1f11d9d843.png",
+    "index.html": "/index.html",
+    "main.0d524c4c.css.map": "/static/css/main.0d524c4c.css.map",
+    "main.c1fe798b.js.map": "/static/js/main.c1fe798b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d524c4c.css",
+    "static/js/main.c1fe798b.js"
+  ]
+}
